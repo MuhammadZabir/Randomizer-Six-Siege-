@@ -1,0 +1,1238 @@
+[
+    {
+      "name": "Sledge",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "M590A1",
+          "type": "Primary"
+        },
+        {
+          "name": "L85A2",
+          "type": "Primary"
+        },
+        {
+          "name": "P226 Mk 25",
+          "type": "Secondary"
+        },
+        {
+          "name": "SMG-11",
+          "type": "Secondary"
+        },
+        {
+          "name": "Frag Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Thatcher",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "AR33",
+          "type": "Primary"
+        },
+        {
+          "name": "L85A2",
+          "type": "Primary"
+        },
+        {
+          "name": "M590A1",
+          "type": "Primary"
+        },
+        {
+          "name": "P226 Mk 25",
+          "type": "Secondary"
+        },
+        {
+          "name": "Claymore",
+          "type": "Gadget"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Ash",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "G36C",
+          "type": "Primary"
+        },
+        {
+          "name": "R4-C",
+          "type": "Primary"
+        },
+        {
+          "name": "M45 MEUSOC",
+          "type": "Secondary"
+        },
+        {
+          "name": "5.7 USG",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Thermite",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "M1014",
+          "type": "Primary"
+        },
+        {
+          "name": "556xi",
+          "type": "Primary"
+        },
+        {
+          "name": "M45 MEUSOC",
+          "type": "Secondary"
+        },
+        {
+          "name": "5.7 USG",
+          "type": "Secondary"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Claymore",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Twitch",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "F2",
+          "type": "Primary"
+        },
+        {
+          "name": "417",
+          "type": "Primary"
+        },
+        {
+          "name": "SG-CQB",
+          "type": "Primary"
+        },
+        {
+          "name": "P9",
+          "type": "Secondary"
+        },
+        {
+          "name": "LFP586",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Claymore",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Montagne",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "Extendable Shield",
+          "type": "Primary"
+        },
+        {
+          "name": "P9",
+          "type": "Secondary"
+        },
+        {
+          "name": "LFP586",
+          "type": "Secondary"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Smoke Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Glaz",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "OTs-03",
+          "type": "Primary"
+        },
+        {
+          "name": "GSh-18",
+          "type": "Secondary"
+        },
+        {
+          "name": "PMM",
+          "type": "Secondary"
+        },
+        {
+          "name": "Smoke Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Claymore",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Fuze",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "Ballistic Shield",
+          "type": "Primary"
+        },
+        {
+          "name": "6P41",
+          "type": "Primary"
+        },
+        {
+          "name": "AK-12",
+          "type": "Primary"
+        },
+        {
+          "name": "PMM",
+          "type": "Secondary"
+        },
+        {
+          "name": "GSh-18",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Smoke Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Blitz",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "Flash Shield",
+          "type": "Primary"
+        },
+        {
+          "name": "P12",
+          "type": "Secondary"
+        },
+        {
+          "name": "Smoke Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "IQ",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "AUG A2",
+          "type": "Primary"
+        },
+        {
+          "name": "552 Commando",
+          "type": "Primary"
+        },
+        {
+          "name": "G8A1",
+          "type": "Primary"
+        },
+        {
+          "name": "P12",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Frag Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Buck",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "C8-SFW",
+          "type": "Primary"
+        },
+        {
+          "name": "CAMRS",
+          "type": "Primary"
+        },
+        {
+          "name": "Mk1 9mm",
+          "type": "Secondary"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Frag Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Blackbeard",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "Mk17 CQB",
+          "type": "Primary"
+        },
+        {
+          "name": "SR-25",
+          "type": "Primary"
+        },
+        {
+          "name": "D-50",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Capitao",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "PARA-308",
+          "type": "Primary"
+        },
+        {
+          "name": "M249",
+          "type": "Primary"
+        },
+        {
+          "name": "PRB92",
+          "type": "Secondary"
+        },
+        {
+          "name": "Claymore",
+          "type": "Gadget"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Hibana",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "Type-89",
+          "type": "Primary"
+        },
+        {
+          "name": "SuperNova",
+          "type": "Primary"
+        },
+        {
+          "name": "P229",
+          "type": "Secondary"
+        },
+        {
+          "name": "Bearing 9",
+          "type": "Secondary"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Jackal",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "C7E",
+          "type": "Primary"
+        },
+        {
+          "name": "PDW9",
+          "type": "Primary"
+        },
+        {
+          "name": "ITA12L",
+          "type": "Primary"
+        },
+        {
+          "name": "ITA12S",
+          "type": "Secondary"
+        },
+        {
+          "name": "USP40",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Smoke Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Ying",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "T-95 LSW",
+          "type": "Primary"
+        },
+        {
+          "name": "SIX12",
+          "type": "Primary"
+        },
+        {
+          "name": "Q-929",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Charge",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Zofia",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "LMG-E",
+          "type": "Primary"
+        },
+        {
+          "name": "M762",
+          "type": "Primary"
+        },
+        {
+          "name": "RG15",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Claymore",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Dokkaebi",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "Mk 14 EBR",
+          "type": "Primary"
+        },
+        {
+          "name": "BOSG.12.2",
+          "type": "Primary"
+        },
+        {
+          "name": "C75 Auto",
+          "type": "Secondary"
+        },
+        {
+          "name": "SMG-11",
+          "type": "Secondary"
+        },
+        {
+          "name": "Smoke Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Claymore",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Lion",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "V308",
+          "type": "Primary"
+        },
+        {
+          "name": "417",
+          "type": "Primary"
+        },
+        {
+          "name": "SG-CQB",
+          "type": "Primary"
+        },
+        {
+          "name": "P9",
+          "type": "Secondary"
+        },
+        {
+          "name": "LFP586",
+          "type": "Secondary"
+        },
+        {
+          "name": "Claymore",
+          "type": "Gadget"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Finka",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "Spear .308",
+          "type": "Primary"
+        },
+        {
+          "name": "6P41",
+          "type": "Primary"
+        },
+        {
+          "name": "SASG-12",
+          "type": "Primary"
+        },
+        {
+          "name": "PMM",
+          "type": "Secondary"
+        },
+        {
+          "name": "GSh-18",
+          "type": "Secondary"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Stun Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Smoke",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "FMG-9",
+          "type": "Primary"
+        },
+        {
+          "name": "M590A1",
+          "type": "Primary"
+        },
+        {
+          "name": "P226 Mk 25",
+          "type": "Secondary"
+        },
+        {
+          "name": "SMG-11",
+          "type": "Secondary"
+        },
+        {
+          "name": "Impact Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Mute",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "MP5K",
+          "type": "Primary"
+        },
+        {
+          "name": "M590A1",
+          "type": "Primary"
+        },
+        {
+          "name": "P226 Mk 25",
+          "type": "Secondary"
+        },
+        {
+          "name": "Nitro Cell",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Castle",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "UMP45",
+          "type": "Primary"
+        },
+        {
+          "name": "M1014",
+          "type": "Primary"
+        },
+        {
+          "name": "5.7 USG",
+          "type": "Secondary"
+        },
+        {
+          "name": "M45 MEUSOC",
+          "type": "Secondary"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        },
+        {
+          "name": "Impact Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Pulse",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "M1014",
+          "type": "Primary"
+        },
+        {
+          "name": "UMP45",
+          "type": "Primary"
+        },
+        {
+          "name": "m45 MEUSOC",
+          "type": "Secondary"
+        },
+        {
+          "name": "5.7 USG",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Nitro Cell",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Doc",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "SG-CQB",
+          "type": "Primary"
+        },
+        {
+          "name": "M95",
+          "type": "Primary"
+        },
+        {
+          "name": "P90",
+          "type": "Primary"
+        },
+        {
+          "name": "P9",
+          "type": "Secondary"
+        },
+        {
+          "name": "LFP586",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Rook",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "P90",
+          "type": "Primary"
+        },
+        {
+          "name": "MP5",
+          "type": "Primary"
+        },
+        {
+          "name": "SG-CQB",
+          "type": "Primary"
+        },
+        {
+          "name": "LFP586",
+          "type": "Secondary"
+        },
+        {
+          "name": "P9",
+          "type": "Secondary"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        },
+        {
+          "name": "Impact Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Kapkan",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "9x19VSN",
+          "type": "Primary"
+        },
+        {
+          "name": "SASG-12",
+          "type": "Primary"
+        },
+        {
+          "name": "PMM",
+          "type": "Secondary"
+        },
+        {
+          "name": "GSh-18",
+          "type": "Secondary"
+        },
+        {
+          "name": "Impact Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Nitro Cell",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Tachanka",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "SASG-12",
+          "type": "Primary"
+        },
+        {
+          "name": "9x19VSN",
+          "type": "Primary"
+        },
+        {
+          "name": "GSh-18",
+          "type": "Secondary"
+        },
+        {
+          "name": "PMM",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Jager",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "M870",
+          "type": "Primary"
+        },
+        {
+          "name": "416-C Carbine",
+          "type": "Primary"
+        },
+        {
+          "name": "P12",
+          "type": "Secondary"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Bandit",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "MP7",
+          "type": "Primary"
+        },
+        {
+          "name": "M590A1",
+          "type": "M870"
+        },
+        {
+          "name": "P12",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Nitro Cell",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Frost",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "Super 90",
+          "type": "Primary"
+        },
+        {
+          "name": "9mm C1",
+          "type": "Primary"
+        },
+        {
+          "name": "Mk1 9mm",
+          "type": "Secondary"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Valkyrie",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "MPX",
+          "type": "Primary"
+        },
+        {
+          "name": "SPAS-12",
+          "type": "Primary"
+        },
+        {
+          "name": "D-50",
+          "type": "Secondary"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        },
+        {
+          "name": "Nitro Cell",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Caveira",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "M12",
+          "type": "Primary"
+        },
+        {
+          "name": "SPAS-15",
+          "type": "Primary"
+        },
+        {
+          "name": "\"Luison\"",
+          "type": "Secondary"
+        },
+        {
+          "name": "Impact Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Echo",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "SuperNova",
+          "type": "Primary"
+        },
+        {
+          "name": "MP5SD",
+          "type": "Primary"
+        },
+        {
+          "name": "P229",
+          "type": "Secondary"
+        },
+        {
+          "name": "Bearing 9",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Mira",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "Vector .45 ACP",
+          "type": "Primary"
+        },
+        {
+          "name": "ITA12L",
+          "type": "Primary"
+        },
+        {
+          "name": "ITA12S",
+          "type": "Secondary"
+        },
+        {
+          "name": "USP40",
+          "type": "Secondary"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        },
+        {
+          "name": "Nitro Cell",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Lesion",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "SIX12 SD",
+          "type": "Primary"
+        },
+        {
+          "name": "T-5 SMG",
+          "type": "Primary"
+        },
+        {
+          "name": "Q-929",
+          "type": "Secondary"
+        },
+        {
+          "name": "Impact Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Ela",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "Scorpion EVO 3 A1",
+          "type": "Primary"
+        },
+        {
+          "name": "FO-12",
+          "type": "Primary"
+        },
+        {
+          "name": "RG15",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Vigil",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "K1A",
+          "type": "Primary"
+        },
+        {
+          "name": "BOSG.12.2",
+          "type": "Primary"
+        },
+        {
+          "name": "C75 Auto",
+          "type": "Secondary"
+        },
+        {
+          "name": "SMG-12",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Impact Grenade",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Maestro",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "ALDA 5.56",
+          "type": "Primary"
+        },
+        {
+          "name": "ACS12",
+          "type": "Primary"
+        },
+        {
+          "name": "Bailiff 410",
+          "type": "Secondary"
+        },
+        {
+          "name": "Keratos .357",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Alibi",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "Mx4 Storm",
+          "type": "Primary"
+        },
+        {
+          "name": "ACS12",
+          "type": "Primary"
+        },
+        {
+          "name": "Keratos .357",
+          "type": "Secondary"
+        },
+        {
+          "name": "Bailiff 410",
+          "type": "Secondary"
+        },
+        {
+          "name": "Impact Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Recruit Attacker",
+      "type": "Attacker",
+      "weapons": [
+        {
+          "name": "Shotgun",
+          "type": "Primary"
+        },
+        {
+          "name": "Assault Rifle",
+          "type": "Primary"
+        },
+        {
+          "name": "Light Machine Gun",
+          "type": "Primary"
+        },
+        {
+          "name": "Shield",
+          "type": "Primary"
+        },
+        {
+          "name": "Anything",
+          "type": "Secondary"
+        },
+        {
+          "name": "Frag Grenade",
+          "type": "Gadget"
+        },
+        {
+          "name": "Stun Shield",
+          "type": "Gadget"
+        },
+        {
+          "name": "Breach Charge",
+          "type": "Gadget"
+        },
+        {
+          "name": "Smoke Shield",
+          "type": "Gadget"
+        }
+      ]
+    },
+    {
+      "name": "Recruit Defender",
+      "type": "Defender",
+      "weapons": [
+        {
+          "name": "Shotgun",
+          "type": "Primary"
+        },
+        {
+          "name": "Assault Rifle",
+          "type": "Primary"
+        },
+        {
+          "name": "Sub Machine Gun",
+          "type": "Primary"
+        },
+        {
+          "name": "Anything",
+          "type": "Secondary"
+        },
+        {
+          "name": "Barbed Wire",
+          "type": "Gadget"
+        },
+        {
+          "name": "Deployable Shield",
+          "type": "Gadget"
+        },
+        {
+          "name": "Nitro Cell",
+          "type": "Gadget"
+        }
+      ]
+    }
+]
